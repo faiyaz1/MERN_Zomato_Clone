@@ -1,0 +1,83 @@
+.quicksearch {
+    position: absolute;
+    margin-left: 15px;
+    margin-top: -35px;
+}
+
+.quicksearchHeading {
+    text-align: left;
+    color: #192f60;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding-left: 35px;
+}
+
+.quicksearchSubHeading {
+    text-align: left;
+    color: gray;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding-left: 35px;
+}
+
+.tileContainer {
+    height: 150px;
+    width: 350px;
+    background-color: white;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    box-shadow: 0 3px 6px gray;
+    float: left;
+}
+
+.tileComponent1 {
+    width: 45%;
+    float: left;
+}
+
+.tileComponent2 {
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+}
+
+.componentHeading {
+    text-align: left;
+    color: #192f60;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.componentSubHeading {
+    text-align: left;
+    color: gray;
+    font-size: 18px;
+}
+
+.qs-block {
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-bottom: 5px;
+}
+
+.marg-bot {
+    margin-bottom: 10px;
+}
+
+.heading {
+    width: 88px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
